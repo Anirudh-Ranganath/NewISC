@@ -1,0 +1,53 @@
+.international
+{
+    background-color: #ff7900;
+}
+.secondrow
+{
+    margin-top: 25px;
+}
+.leftside
+{
+   border-radius: 5%;;
+   overflow: hidden;
+}
+.horizontal
+{
+    height: 1px;
+    border: 1px solid white;
+    background-color: white;
+    display: block;
+}
+.KPI
+{
+    height: 150px;
+    width: 150px;
+    background-color:#fb6945;
+    border-radius: 50%;
+    padding: 60px;
+    margin-top: 10%;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.end
+{
+    margin-left: 5%;
+    margin-top: 3%; 
+    background-color: #4472c4;
+    padding: 10px;
+    border-radius: 5%;
+}
+.borders
+{
+    border-color: white;
+    text-align: center;
+    justify-content: center;
+    padding-top: 10%;
+}
+.borders1
+{
+    border-color: white;
+    text-align: center;
+    justify-content: center;
+    padding-top: 4%;
+}
